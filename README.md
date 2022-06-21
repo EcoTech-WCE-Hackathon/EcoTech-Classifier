@@ -1,6 +1,6 @@
 # WCE Hackathon - EcoTech Classifier
 
-## Welcome to the Backend Repo for EcoTech
+## Welcome to the ML Classifier Repo for EcoTech
 
 #### EcoTech is a mobile app for reporting E-Waste effeciently and thereby reducing the damage to the environment cauesd by the E-Waste
 
